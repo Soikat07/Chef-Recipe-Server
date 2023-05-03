@@ -1,0 +1,62 @@
+    [
+      {
+        "id": 1,
+        "chef_image": "https://example.com/chef1.jpg",
+        "chef_name": "Giovanni Rossi",
+        "experience": 15,
+        "num_recipes": 50,
+        "likes": 2500,
+        "description":
+          "Chef Giovanni Rossi is a master of Italian cuisine, with over 15 years of experience in the kitchen. He has a passion for creating authentic dishes that showcase the flavors and ingredients of his homeland. From classic pizza and pasta dishes to innovative new creations, Chef Rossi's recipes are sure to impress."
+      },
+      {
+        "id": 2,
+        "chef_image": "https://example.com/chef2.jpg",
+        "chef_name": "Maria Bianchi",
+        "experience": 10,
+        "num_recipes": 35,
+        "likes": 1800,
+        "description":
+          "Chef Maria Bianchi is a pasta expert, with a decade of experience crafting the perfect noodles and sauces. Her recipes are both traditional and modern, and she always uses the freshest ingredients available. From simple spaghetti to complex lasagna dishes, Chef Bianchi's pasta recipes are not to be missed."
+      },
+      {
+        "id": 3,
+        "chef_image": "https://example.com/chef3.jpg",
+        "chef_name": "Luigi Verdi",
+        "experience": 20,
+        "num_recipes": 75,
+        "likes": 3200,
+        "description":
+          "Chef Luigi Verdi is a seafood master, with over 20 years of experience preparing dishes that highlight the bounty of the Mediterranean. He sources only the freshest seafood available and uses his expert knowledge of spices and flavors to create unique and delicious dishes. From simple grilled fish to complex seafood stews, Chef Verdi's recipes are sure to delight."
+      },
+      {
+        "id": 4,
+        "chef_image": "https://example.com/chef4.jpg",
+        "chef_name": "Alessandro Neri",
+        "experience": 12,
+        "num_recipes": 40,
+        "likes": 2000,
+        "description":
+          "Chef Alessandro Neri is a meat specialist, with a decade of experience creating dishes that showcase the rich flavors of Italian meats. From classic dishes like osso buco and veal scallopini to more modern preparations like steak with truffle butter, Chef Neri's recipes are sure to satisfy carnivores of all stripes."
+      },
+      {
+        "id": 5,
+        "chef_image": "https://example.com/chef5.jpg",
+        "chef_name": "Giulia Russo",
+        "experience": 8,
+        "num_recipes": 30,
+        "likes": 1500,
+        "description":
+          "Chef Giulia Russo is a pastry genius, with a talent for creating beautiful and delicious desserts that showcase the flavors of Italy. Her recipes range from classic tiramisu and cannoli to modern interpretations of Italian sweets, and she always uses the freshest and highest-quality ingredients available."
+      },
+      {
+        "id": 6,
+        "chef_image": "https://example.com/chef6.jpg",
+        "chef_name": "Marco De Luca",
+        "experience": 18,
+        "num_recipes": 60,
+        "likes": 2800,
+        "description":
+          "Chef Marco De Luca is a culinary virtuoso, with a talent for creating dishes that are both innovative and deeply rooted in tradition. He has spent nearly two decades honing his craft, and his recipes reflect his passion for Italian cuisine. From handmade gnocchi to slow-roasted lamb, Chef De Luca's dishes are both impressive and delicious."
+      }
+]

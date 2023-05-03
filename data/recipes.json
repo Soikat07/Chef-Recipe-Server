@@ -1,0 +1,408 @@
+[
+  {
+    "id": 1,
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "1 pound spaghetti",
+      "6 ounces pancetta, chopped",
+      "4 large eggs",
+      "1 cup freshly grated Pecorino Romano cheese",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Cook spaghetti in a large pot of boiling salted water until al dente.",
+      "While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crisp.",
+      "In a bowl, whisk together the eggs, cheese, and black pepper.",
+      "Drain the spaghetti and add it to the skillet with the pancetta. Toss to coat the spaghetti with the pancetta fat.",
+      "Remove the skillet from the heat and add the egg mixture, tossing quickly to avoid scrambling the eggs."
+    ],
+    "ratings": {
+      "average": 4.5,
+      "total": 120
+    }
+  },
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "1 pound pizza dough",
+      "1/2 cup tomato sauce",
+      "8 ounces fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Extra-virgin olive oil"
+    ],
+    "method": [
+      "Preheat the oven to 500°F.",
+      "Roll out the pizza dough on a lightly floured surface into a circle.",
+      "Spread the tomato sauce over the dough, leaving a 1-inch border around the edges.",
+      "Arrange the sliced mozzarella over the sauce.",
+      "Bake the pizza in the preheated oven for 10-12 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 200
+    }
+  },
+  {
+    "id": 1,
+    "name": "Tiramisu",
+    "ingredients": [
+      "6 egg yolks",
+      "3/4 cup sugar",
+      "2/3 cup milk",
+      "1 1/4 cups heavy cream",
+      "1/2 teaspoon vanilla extract"
+    ],
+    "method": [
+      "In a heatproof bowl, whisk together the egg yolks and sugar.",
+      "Place the bowl over a pot of simmering water and whisk constantly until the mixture becomes pale and thick.",
+      "In a small saucepan, heat the milk until it begins to steam.",
+      "Whisk the hot milk into the egg mixture.",
+      "Continue to cook the mixture over the simmering water, whisking constantly, until it thickens and coats the back of a spoon."
+    ],
+    "ratings": {
+      "average": 4.5,
+      "total": 220
+    }
+  },
+  {
+    "id": 2,
+    "name": "Osso Buco",
+    "ingredients": [
+      "4 veal shanks",
+      "Salt and freshly ground black pepper",
+      "All-purpose flour, for dredging",
+      "1/4 cup unsalted butter",
+      "1/4 cup extra-virgin olive oil"
+    ],
+    "method": [
+      "Season the veal shanks with salt and pepper and dredge in flour.",
+      "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
+      "Add the veal shanks and brown on both sides, about 8 minutes total.",
+      "Transfer the veal to a plate.",
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 115
+    }
+  },
+  {
+    "id": 2,
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "1 pound spaghetti",
+      "6 ounces pancetta, chopped",
+      "4 large eggs",
+      "1 cup freshly grated Pecorino Romano cheese",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Cook spaghetti in a large pot of boiling salted water until al dente.",
+      "While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crisp.",
+      "In a bowl, whisk together the eggs, cheese, and black pepper.",
+      "Drain the spaghetti and add it to the skillet with the pancetta. Toss to coat the spaghetti with the pancetta fat.",
+      "Remove the skillet from the heat and add the egg mixture, tossing quickly to avoid scrambling the eggs."
+    ],
+    "ratings": {
+      "average": 4.5,
+      "total": 120
+    }
+  },
+  {
+    "id": 2,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "1 pound pizza dough",
+      "1/2 cup tomato sauce",
+      "8 ounces fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Extra-virgin olive oil"
+    ],
+    "method": [
+      "Preheat the oven to 500°F.",
+      "Roll out the pizza dough on a lightly floured surface into a circle.",
+      "Spread the tomato sauce over the dough, leaving a 1-inch border around the edges.",
+      "Arrange the sliced mozzarella over the sauce.",
+      "Bake the pizza in the preheated oven for 10-12 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 200
+    }
+  },
+  {
+    "id": 3,
+    "name": "Osso Buco",
+    "ingredients": [
+      "4 veal shanks",
+      "Salt and freshly ground black pepper",
+      "All-purpose flour, for dredging",
+      "1/4 cup unsalted butter",
+      "1/4 cup extra-virgin olive oil",
+      "1 small onion, finely chopped"
+    ],
+    "method": [
+      "Season the veal shanks with salt and pepper and dredge in flour.",
+      "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
+      "Add the veal shanks and brown on both sides, about 8 minutes total.",
+      "Transfer the veal to a plate.",
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes.",
+      "Add the garlic and tomato paste and cook for 1 minute."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 115
+    }
+  },
+  {
+    "id": 3,
+    "name": "Risotto alla Milanese",
+    "ingredients": [
+      "6 cups chicken broth",
+      "4 tablespoons unsalted butter",
+      "1 small onion, finely chopped",
+      "2 cups Arborio rice",
+      "1/2 cup dry white wine"
+    ],
+    "method": [
+      "In a saucepan, bring the chicken broth to a simmer.",
+      "In a large saucepan, melt 3 tablespoons of the butter over medium heat.",
+      "Add the onion and cook until softened, about 5 minutes.",
+      "Add the rice and stir to coat with the butter.",
+      "Add the white wine and stir until absorbed."
+    ],
+    "ratings": {
+      "average": 4.6,
+      "total": 95
+    }
+  },
+  {
+    "id": 3,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "1 pound pizza dough",
+      "1/2 cup tomato sauce",
+      "8 ounces fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Extra-virgin olive oil"
+    ],
+    "method": [
+      "Preheat the oven to 500°F.",
+      "Roll out the pizza dough on a lightly floured surface into a circle.",
+      "Spread the tomato sauce over the dough, leaving a 1-inch border around the edges.",
+      "Arrange the sliced mozzarella over the sauce.",
+      "Bake the pizza in the preheated oven for 10-12 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 200
+    }
+  },
+  {
+    "id": 4,
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "1 pound spaghetti",
+      "6 ounces pancetta, chopped",
+      "4 large eggs",
+      "1 cup freshly grated Pecorino Romano cheese",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Cook spaghetti in a large pot of boiling salted water until al dente.",
+      "While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crisp.",
+      "In a bowl, whisk together the eggs, cheese, and black pepper.",
+      "Drain the spaghetti and add it to the skillet with the pancetta. Toss to coat the spaghetti with the pancetta fat.",
+      "Remove the skillet from the heat and add the egg mixture, tossing quickly to avoid scrambling the eggs."
+    ],
+    "ratings": {
+      "average": 4.5,
+      "total": 120
+    }
+  },
+  {
+    "id": 4,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "1 pound pizza dough",
+      "1/2 cup tomato sauce",
+      "8 ounces fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Extra-virgin olive oil"
+    ],
+    "method": [
+      "Preheat the oven to 500°F.",
+      "Roll out the pizza dough on a lightly floured surface into a circle.",
+      "Spread the tomato sauce over the dough, leaving a 1-inch border around the edges.",
+      "Arrange the sliced mozzarella over the sauce.",
+      "Bake the pizza in the preheated oven for 10-12 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 200
+    }
+  },
+  {
+    "id": 4,
+    "name": "Risotto alla Milanese",
+    "ingredients": [
+      "6 cups chicken broth",
+      "4 tablespoons unsalted butter",
+      "1 small onion, finely chopped",
+      "2 cups Arborio rice",
+      "1/2 cup dry white wine"
+    ],
+    "method": [
+      "In a saucepan, bring the chicken broth to a simmer.",
+      "In a large saucepan, melt 3 tablespoons of the butter over medium heat.",
+      "Add the onion and cook until softened, about 5 minutes.",
+      "Add the rice and stir to coat with the butter.",
+      "Add the white wine and stir until absorbed."
+    ],
+    "ratings": {
+      "average": 4.6,
+      "total": 95
+    }
+  },
+  {
+    "id": 5,
+    "name": "Osso Buco",
+    "ingredients": [
+      "4 veal shanks",
+      "Salt and freshly ground black pepper",
+      "All-purpose flour, for dredging",
+      "1/4 cup unsalted butter",
+      "1/4 cup extra-virgin olive oil",
+      "1 small onion, finely chopped"
+    ],
+    "method": [
+      "Season the veal shanks with salt and pepper and dredge in flour.",
+      "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
+      "Add the veal shanks and brown on both sides, about 8 minutes total.",
+      "Transfer the veal to a plate.",
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes.",
+      "Add the garlic and tomato paste and cook for 1 minute."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 115
+    }
+  },
+  {
+    "id": 5,
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "1 pound spaghetti",
+      "6 ounces pancetta, chopped",
+      "4 large eggs",
+      "1 cup freshly grated Pecorino Romano cheese",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Cook spaghetti in a large pot of boiling salted water until al dente.",
+      "While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crisp.",
+      "In a bowl, whisk together the eggs, cheese, and black pepper.",
+      "Drain the spaghetti and add it to the skillet with the pancetta. Toss to coat the spaghetti with the pancetta fat.",
+      "Remove the skillet from the heat and add the egg mixture, tossing quickly to avoid scrambling the eggs."
+    ],
+    "ratings": {
+      "average": 4.5,
+      "total": 120
+    }
+  },
+  {
+    "id": 5,
+    "name": "Margherita Pizza",
+    "ingredients": [
+      "1 pound pizza dough",
+      "1/2 cup tomato sauce",
+      "8 ounces fresh mozzarella cheese, sliced",
+      "Fresh basil leaves",
+      "Extra-virgin olive oil"
+    ],
+    "method": [
+      "Preheat the oven to 500°F.",
+      "Roll out the pizza dough on a lightly floured surface into a circle.",
+      "Spread the tomato sauce over the dough, leaving a 1-inch border around the edges.",
+      "Arrange the sliced mozzarella over the sauce.",
+      "Bake the pizza in the preheated oven for 10-12 minutes, until the crust is golden brown and the cheese is melted and bubbly."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 200
+    }
+  },
+  {
+    "id": 6,
+    "name": "Osso Buco",
+    "ingredients": [
+      "4 veal shanks",
+      "Salt and freshly ground black pepper",
+      "All-purpose flour, for dredging",
+      "1/4 cup unsalted butter",
+      "1/4 cup extra-virgin olive oil",
+      "1 small onion, finely chopped",
+      "1 small carrot, finely chopped"
+    ],
+    "method": [
+      "Season the veal shanks with salt and pepper and dredge in flour.",
+      "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
+      "Add the veal shanks and brown on both sides, about 8 minutes total.",
+      "Transfer the veal to a plate.",
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes.",
+      "Add the garlic and tomato paste and cook for 1 minute."
+    ],
+    "ratings": {
+      "average": 4.8,
+      "total": 115
+    }
+  },
+  {
+    "id": 6,
+    "recipe_name": "Spaghetti Carbonara",
+    "ingredients": [
+      "1 pound spaghetti",
+      "6 ounces pancetta, chopped",
+      "4 large eggs",
+      "1 cup freshly grated Pecorino Romano cheese",
+      "Freshly ground black pepper"
+    ],
+    "method": [
+      "Cook spaghetti in a large pot of boiling salted water until al dente.",
+      "While the spaghetti is cooking, cook the pancetta in a large skillet over medium heat until crisp.",
+      "In a bowl, whisk together the eggs, cheese, and black pepper.",
+      "Drain the spaghetti and add it to the skillet with the pancetta. Toss to coat the spaghetti with the pancetta fat.",
+      "Remove the skillet from the heat and add the egg mixture, tossing quickly to avoid scrambling the eggs."
+    ],
+    "ratings": {
+      "average": 4.5,
+      "total": 120
+    }
+  },
+  {
+    "id": 6,
+    "name": "Risotto alla Milanese",
+    "ingredients": [
+      "6 cups chicken broth",
+      "4 tablespoons unsalted butter",
+      "1 small onion, finely chopped",
+      "2 cups Arborio rice",
+      "1/2 cup dry white wine",
+      "1/2 teaspoon saffron threads"
+    ],
+    "method": [
+      "In a saucepan, bring the chicken broth to a simmer.",
+      "In a large saucepan, melt 3 tablespoons of the butter over medium heat.",
+      "Add the onion and cook until softened, about 5 minutes.",
+      "Add the rice and stir to coat with the butter.",
+      "Add the white wine and stir until absorbed."
+    ],
+    "ratings": {
+      "average": 4.6,
+      "total": 95
+    }
+  }
+]
+
+        
