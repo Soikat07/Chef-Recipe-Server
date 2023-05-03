@@ -1,7 +1,7 @@
     [
       {
         "id": 1,
-        "chef_image": "https://example.com/chef1.jpg",
+        "chef_image": "https://i.ibb.co/pdS1096/chef-1.jpg",
         "chef_name": "Giovanni Rossi",
         "experience": 15,
         "num_recipes": 50,
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "chef_image": "https://example.com/chef2.jpg",
+        "chef_image": "https://i.ibb.co/TmfrLBd/chef-2.jpg",
         "chef_name": "Maria Bianchi",
         "experience": 10,
         "num_recipes": 35,
@@ -21,7 +21,7 @@
       },
       {
         "id": 3,
-        "chef_image": "https://example.com/chef3.jpg",
+        "chef_image": "https://i.ibb.co/j3cSzsL/chef-3.jpg",
         "chef_name": "Luigi Verdi",
         "experience": 20,
         "num_recipes": 75,
@@ -31,7 +31,7 @@
       },
       {
         "id": 4,
-        "chef_image": "https://example.com/chef4.jpg",
+        "chef_image": "https://i.ibb.co/1vDFKf5/chef-4.jpg",
         "chef_name": "Alessandro Neri",
         "experience": 12,
         "num_recipes": 40,
@@ -41,7 +41,7 @@
       },
       {
         "id": 5,
-        "chef_image": "https://example.com/chef5.jpg",
+        "chef_image": "https://i.ibb.co/74CvNJt/chef-5.jpg",
         "chef_name": "Giulia Russo",
         "experience": 8,
         "num_recipes": 30,
@@ -51,7 +51,7 @@
       },
       {
         "id": 6,
-        "chef_image": "https://example.com/chef6.jpg",
+        "chef_image": "https://i.ibb.co/pwgZdgd/chef-6.jpg",
         "chef_name": "Marco De Luca",
         "experience": 18,
         "num_recipes": 60,
