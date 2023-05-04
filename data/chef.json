@@ -1,7 +1,7 @@
     [
       {
         "id": 1,
-        "chef_image": "https://i.ibb.co/pdS1096/chef-1.jpg",
+        "chef_image": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?size=626&ext=jpg&ga=GA1.2.427131665.1683129888&semt=sph",
         "chef_name": "Giovanni Rossi",
         "experience": 15,
         "num_recipes": 50,
@@ -11,7 +11,7 @@
       },
       {
         "id": 2,
-        "chef_image": "https://i.ibb.co/TmfrLBd/chef-2.jpg",
+        "chef_image": "https://img.freepik.com/free-photo/happy-young-cook-uniform-holding-salad_171337-5342.jpg?size=626&ext=jpg",
         "chef_name": "Maria Bianchi",
         "experience": 10,
         "num_recipes": 35,
@@ -21,7 +21,7 @@
       },
       {
         "id": 3,
-        "chef_image": "https://i.ibb.co/j3cSzsL/chef-3.jpg",
+        "chef_image": "https://img.freepik.com/free-photo/confident-young-handsome-cook-chef-uniform-standing-with-closed-posture-isolated-orange-wall_141793-101136.jpg?size=626&ext=jpg",
         "chef_name": "Luigi Verdi",
         "experience": 20,
         "num_recipes": 75,
@@ -31,7 +31,7 @@
       },
       {
         "id": 4,
-        "chef_image": "https://i.ibb.co/1vDFKf5/chef-4.jpg",
+        "chef_image": "https://img.freepik.com/free-photo/female-chef-holding-wooden-spoon-whisk-rolling-pin-white-uniform-looking-cheery_176474-12639.jpg?size=626&ext=jpg",
         "chef_name": "Alessandro Neri",
         "experience": 12,
         "num_recipes": 40,
@@ -41,7 +41,7 @@
       },
       {
         "id": 5,
-        "chef_image": "https://i.ibb.co/74CvNJt/chef-5.jpg",
+        "chef_image": "https://img.freepik.com/free-photo/mid-shot-chef-holding-plate-with-pasta-making-ok-sign_23-2148794087.jpg?size=626&ext=jpg&ga=GA1.2.427131665.1683129888&semt=sph",
         "chef_name": "Giulia Russo",
         "experience": 8,
         "num_recipes": 30,
@@ -51,7 +51,7 @@
       },
       {
         "id": 6,
-        "chef_image": "https://i.ibb.co/pwgZdgd/chef-6.jpg",
+        "chef_image": "https://img.freepik.com/free-photo/front-view-young-female-cook-white-cook-suit-white-cap-smiling-happy_140725-15367.jpg?size=626&ext=jpg",
         "chef_name": "Marco De Luca",
         "experience": 18,
         "num_recipes": 60,
