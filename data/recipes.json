@@ -23,7 +23,7 @@
   },
   {
     "id": 1,
-    "name": "Margherita Pizza",
+    "recipe_name": "Margherita Pizza",
     "ingredients": [
       "1 pound pizza dough",
       "1/2 cup tomato sauce",
@@ -45,7 +45,7 @@
   },
   {
     "id": 1,
-    "name": "Tiramisu",
+    "recipe_name": "Tiramisu",
     "ingredients": [
       "6 egg yolks",
       "3/4 cup sugar",
@@ -67,7 +67,7 @@
   },
   {
     "id": 2,
-    "name": "Osso Buco",
+    "recipe_name": "Osso Buco",
     "ingredients": [
       "4 veal shanks",
       "Salt and freshly ground black pepper",
@@ -111,7 +111,7 @@
   },
   {
     "id": 2,
-    "name": "Margherita Pizza",
+    "recipe_name": "Margherita Pizza",
     "ingredients": [
       "1 pound pizza dough",
       "1/2 cup tomato sauce",
@@ -133,22 +133,20 @@
   },
   {
     "id": 3,
-    "name": "Osso Buco",
+    "recipe_name": "Osso Buco",
     "ingredients": [
       "4 veal shanks",
       "Salt and freshly ground black pepper",
       "All-purpose flour, for dredging",
       "1/4 cup unsalted butter",
-      "1/4 cup extra-virgin olive oil",
-      "1 small onion, finely chopped"
+      "1/4 cup extra-virgin olive oil"
     ],
     "method": [
       "Season the veal shanks with salt and pepper and dredge in flour.",
       "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
       "Add the veal shanks and brown on both sides, about 8 minutes total.",
       "Transfer the veal to a plate.",
-      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes.",
-      "Add the garlic and tomato paste and cook for 1 minute."
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes."
     ],
     "ratings": {
       "average": 4.8,
@@ -157,7 +155,7 @@
   },
   {
     "id": 3,
-    "name": "Risotto alla Milanese",
+    "recipe_name": "Risotto alla Milanese",
     "ingredients": [
       "6 cups chicken broth",
       "4 tablespoons unsalted butter",
@@ -179,7 +177,7 @@
   },
   {
     "id": 3,
-    "name": "Margherita Pizza",
+    "recipe_name": "Margherita Pizza",
     "ingredients": [
       "1 pound pizza dough",
       "1/2 cup tomato sauce",
@@ -223,7 +221,7 @@
   },
   {
     "id": 4,
-    "name": "Margherita Pizza",
+    "recipe_name": "Margherita Pizza",
     "ingredients": [
       "1 pound pizza dough",
       "1/2 cup tomato sauce",
@@ -245,7 +243,7 @@
   },
   {
     "id": 4,
-    "name": "Risotto alla Milanese",
+    "recipe_name": "Risotto alla Milanese",
     "ingredients": [
       "6 cups chicken broth",
       "4 tablespoons unsalted butter",
@@ -267,22 +265,20 @@
   },
   {
     "id": 5,
-    "name": "Osso Buco",
+    "recipe_name": "Osso Buco",
     "ingredients": [
       "4 veal shanks",
       "Salt and freshly ground black pepper",
       "All-purpose flour, for dredging",
       "1/4 cup unsalted butter",
-      "1/4 cup extra-virgin olive oil",
-      "1 small onion, finely chopped"
+      "1/4 cup extra-virgin olive oil"
     ],
     "method": [
       "Season the veal shanks with salt and pepper and dredge in flour.",
       "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
       "Add the veal shanks and brown on both sides, about 8 minutes total.",
       "Transfer the veal to a plate.",
-      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes.",
-      "Add the garlic and tomato paste and cook for 1 minute."
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes."
     ],
     "ratings": {
       "average": 4.8,
@@ -313,7 +309,7 @@
   },
   {
     "id": 5,
-    "name": "Margherita Pizza",
+    "recipe_name": "Margherita Pizza",
     "ingredients": [
       "1 pound pizza dough",
       "1/2 cup tomato sauce",
@@ -335,23 +331,20 @@
   },
   {
     "id": 6,
-    "name": "Osso Buco",
+    "recipe_name": "Osso Buco",
     "ingredients": [
       "4 veal shanks",
       "Salt and freshly ground black pepper",
       "All-purpose flour, for dredging",
       "1/4 cup unsalted butter",
-      "1/4 cup extra-virgin olive oil",
-      "1 small onion, finely chopped",
-      "1 small carrot, finely chopped"
+      "1/4 cup extra-virgin olive oil"
     ],
     "method": [
       "Season the veal shanks with salt and pepper and dredge in flour.",
       "In a large Dutch oven, melt the butter with the olive oil over medium heat.",
       "Add the veal shanks and brown on both sides, about 8 minutes total.",
       "Transfer the veal to a plate.",
-      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes.",
-      "Add the garlic and tomato paste and cook for 1 minute."
+      "Add the onion, carrot, and celery to the pot and cook until the vegetables are soft, about 5 minutes."
     ],
     "ratings": {
       "average": 4.8,
@@ -382,14 +375,13 @@
   },
   {
     "id": 6,
-    "name": "Risotto alla Milanese",
+    "recipe_name": "Risotto alla Milanese",
     "ingredients": [
       "6 cups chicken broth",
       "4 tablespoons unsalted butter",
       "1 small onion, finely chopped",
       "2 cups Arborio rice",
-      "1/2 cup dry white wine",
-      "1/2 teaspoon saffron threads"
+      "1/2 cup dry white wine"
     ],
     "method": [
       "In a saucepan, bring the chicken broth to a simmer.",
